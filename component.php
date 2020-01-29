@@ -2,12 +2,12 @@
 /**
  * Move custom menu item classes to the anchor element
  *
- * @package WP_Theme_Components\move-custom-menu-item-class-to-anchor-element
+ * @package WP_Theme_Components\move-custom-menu-item-classes-to-anchor-element
  * @author Cameron Jones
  * @version 1.0.0
  */
 
-namespace WP_Theme_Components\Move_Custom_Menu_Item_Class_To_Anchor_Element;
+namespace WP_Theme_Components\Move_Custom_Menu_Item_Classes_To_Anchor_Element;
 
 /**
  * Bail if accessed directly
