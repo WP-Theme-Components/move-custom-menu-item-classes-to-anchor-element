@@ -2,7 +2,8 @@
 /**
  * Move custom menu item classes to the anchor element
  *
- * @package WP_Theme_Components\move-custom-menu-item-classes-to-anchor-element
+ * @package WP_Theme_Components
+ * @subpackage move-custom-menu-item-classes-to-anchor-element
  * @author Cameron Jones
  * @version 1.0.0
  */
